@@ -1,21 +1,6 @@
 # Comet Pizza Shop
 
-# Group Members ********* ID
-
-1. Yafet Girma ********************************** UU79286R
-
-2. Teshome Fenta ******************************** UU79340R
-
-3. Yordanos Kebede ****************************** UU79338R
-
-4. Weldeab Bereket ****************************** UU79122R
-
-5. Mesfin Araya ********************************* UU80295R
-
-6. Yeabsira Ephrem ****************************** UU82905R
-
-7. Estifanos Dejene ***************************** UU79835R
-
+Node JS    React    Javascript
 
 # Getting Started with Create React App
 
